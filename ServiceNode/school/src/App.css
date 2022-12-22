@@ -1,0 +1,14 @@
+.App {
+
+  text-align: center;
+}
+
+
+/* .App-header{
+  position: fixed;
+} */
+.header{
+  /* position: -webkit-sticky; Safari */
+  position: sticky;
+  top: 0;
+}
